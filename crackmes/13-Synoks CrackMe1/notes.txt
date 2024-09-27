@@ -1,0 +1,13 @@
+
+
+Try again! :(
+
+
+
+Printf:
+````````
+printf("key: %d", eax)
+
+push eax         ; integer value in hex
+push 0x0043F1B0  ; key: %d
+call 0x00410980   ; printf

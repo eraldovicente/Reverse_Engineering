@@ -1,0 +1,3 @@
+Reg. name > cracker
+
+Reg. code > 28 > (x * 2) * 2
